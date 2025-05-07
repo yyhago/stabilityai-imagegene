@@ -2,6 +2,9 @@
 
 Gerador de imagens que utiliza modelo de inteligência artificial dá Stability, para criar artes digitais a partir de descrições textuais. Desenvolvido com Python e Streamlit, oferece uma interface simples e intuitiva para usuários que desejam explorar o potencial criativo da IA.
 
+## 🖼️ Projeto:
+![Pagina Inicial](./assets/image.png)
+
 ## 🚀 Funcionalidades
 
 * 🎯 Prototipagem visual rápida
